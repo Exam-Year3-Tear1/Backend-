@@ -1,0 +1,27 @@
+.home_background {
+   display: inline-flex;
+   padding: 5% 7%;
+   width: 100%;
+}
+
+.part1 {
+   width: 50%;
+   margin-left: 13%;
+}
+
+.part2 {
+   width: 30%;
+}
+
+.calculator {
+   background-color: white;
+   width: 80%;
+   padding: 40px;
+   border-radius: 10px;
+   box-shadow: 7px 12px 18px 3px #c4d0f594;
+   border: 1px solid #c4d0f5cf;
+}
+
+form input {
+   background-color: #c4d0f5;
+}
